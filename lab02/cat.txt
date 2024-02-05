@@ -1,1 +1,1 @@
-bob likes cats
+alice and bob likes cats
